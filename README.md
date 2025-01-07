@@ -78,7 +78,7 @@ cd RobotCarRemote</code></pre>
 <hr>
 <h2>Screenshots</h2>
     <h3>Mobile App</h3>
-    <img src="docs/screenshots/mobile-app.png" alt="Mobile App Screenshot">
+    <img src="https://github.com/hasunB/RobotCarRemote/blob/main/Front-end(Mobile)/mobileapp.png" alt="Mobile App Screenshot">
     <h3>Hardware Setup</h3>
     <img src="docs/screenshots/hardware-setup.png" alt="Hardware Setup">
 <hr>
