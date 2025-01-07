@@ -74,7 +74,7 @@ cd RobotCarRemote</code></pre>
 </ol>
 <hr>
 <h2>Circuit Diagram</h2>
-<p>Refer to the detailed circuit diagram in the <code>docs/</code> folder.</p>
+<img src="https://github.com/hasunB/RobotCarRemote/blob/main/circuit_diagram.png" alt="Circuit Diagram">
 <hr>
 <h2>Screenshots</h2>
     <h3>Mobile App</h3>
