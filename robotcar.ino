@@ -16,8 +16,8 @@ const int enable2Pin = 12;
 const int dutyCycle = 255;
 
 // WiFi Credentials
-const char* ssid = "Dialog 4G 177";
-const char* password = "F7AA0D9F";
+const char* ssid = "";
+const char* password = "";
 
 // Server URL
 const char* serverUrl = "http://192.168.8.141:8080/RobotCarRemote/sendStatus?id=12&Status=1";
